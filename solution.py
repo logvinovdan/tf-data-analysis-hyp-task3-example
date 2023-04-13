@@ -3,7 +3,7 @@ import numpy as np
 
 from scipy.stats import ttest_ind
 
-chat_id = 121482204 # Ваш chat ID, не меняйте название переменной
+chat_id = 834639322 # Ваш chat ID, не меняйте название переменной
 
 def solution(control_sample, test_sample) -> bool: # Одна или две выборке на входе, заполняется исходя из условия
     # Измените код этой функции
